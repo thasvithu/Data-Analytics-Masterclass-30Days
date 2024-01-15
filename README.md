@@ -3,7 +3,7 @@
 ✅Day-1: Introduction to Artificial Intelligence, Data Analytics & Road Map to become a Data Scientist
 
 ## EXCEL
-✅Day-2: Data Preparation - Power Query & Tables
+* ✅Day-2: Data Preparation - Power Query & Tables
 ✅Day-3: Data analytics- Formula & Pivot Table
 ✅Day-4: Story Telling - Charts & Dashboard
 ✅Day-5: Automation - VBA Macros & Power Query
